@@ -17,7 +17,7 @@ var buffaloVersions = []struct {
 	apiUrl     string
 }{
 	{
-		"github.com/gobuffalo/cli/cmd/buffalo",
+		"github.com/JarrahG/buffalocli/cmd/buffalo",
 		"https://api.github.com/repos/gobuffalo/cli/releases/tags/%s",
 	},
 	{
@@ -89,7 +89,7 @@ func EnsureBuffaloCMD(t *testing.T) error {
 		"sqlite",
 		"-o",
 		testingBinaryLocation(t),
-		"github.com/gobuffalo/cli/cmd/buffalo",
+		"github.com/JarrahG/buffalocli/cmd/buffalo",
 	)
 
 	ex.Stdout = os.Stdout

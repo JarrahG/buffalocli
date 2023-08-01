@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"html/template"
 
-	"github.com/gobuffalo/cli/internal/genny/assets/webpack"
+	"github.com/JarrahG/buffalocli/internal/genny/assets/webpack"
 	"github.com/gobuffalo/genny/v2"
 	"github.com/gobuffalo/meta"
 )

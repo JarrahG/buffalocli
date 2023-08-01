@@ -4,7 +4,7 @@ import (
 	"context"
 	"os"
 
-	"github.com/gobuffalo/cli/internal/genny/grift"
+	"github.com/JarrahG/buffalocli/internal/genny/grift"
 	"github.com/gobuffalo/genny/v2"
 	"github.com/gobuffalo/genny/v2/gogen"
 	"github.com/spf13/cobra"

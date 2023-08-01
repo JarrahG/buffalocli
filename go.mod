@@ -1,4 +1,4 @@
-module github.com/gobuffalo/cli
+module github.com/JarrahG/buffalocli
 
 go 1.18
 

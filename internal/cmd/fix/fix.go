@@ -5,7 +5,7 @@ import (
 	"os"
 	"os/signal"
 
-	"github.com/gobuffalo/cli/internal/genny/fix"
+	"github.com/JarrahG/buffalocli/internal/genny/fix"
 	"github.com/gobuffalo/genny/v2"
 	"github.com/spf13/cobra"
 )

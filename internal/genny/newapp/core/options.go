@@ -6,11 +6,11 @@ import (
 	"strings"
 
 	"github.com/gobuffalo/buffalo-pop/v3/genny/newapp"
-	"github.com/gobuffalo/cli/internal/genny/ci"
-	"github.com/gobuffalo/cli/internal/genny/docker"
-	"github.com/gobuffalo/cli/internal/genny/refresh"
-	"github.com/gobuffalo/cli/internal/genny/vcs"
-	"github.com/gobuffalo/cli/internal/runtime"
+	"github.com/JarrahG/buffalocli/internal/genny/ci"
+	"github.com/JarrahG/buffalocli/internal/genny/docker"
+	"github.com/JarrahG/buffalocli/internal/genny/refresh"
+	"github.com/JarrahG/buffalocli/internal/genny/vcs"
+	"github.com/JarrahG/buffalocli/internal/runtime"
 	"github.com/gobuffalo/meta"
 )
 

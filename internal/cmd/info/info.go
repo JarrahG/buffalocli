@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/gobuffalo/clara/v2/genny/rx"
-	"github.com/gobuffalo/cli/internal/genny/info"
+	"github.com/JarrahG/buffalocli/internal/genny/info"
 	"github.com/gobuffalo/genny/v2"
 	"github.com/spf13/cobra"
 )

@@ -8,7 +8,7 @@ import (
 	"sort"
 	"text/tabwriter"
 
-	pluginsin "github.com/gobuffalo/cli/internal/plugins"
+	pluginsin "github.com/JarrahG/buffalocli/internal/plugins"
 	"github.com/spf13/cobra"
 )
 

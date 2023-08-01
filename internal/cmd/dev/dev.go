@@ -9,7 +9,7 @@ import (
 	"runtime"
 
 	"github.com/fatih/color"
-	"github.com/gobuffalo/cli/internal/genny/assets/webpack"
+	"github.com/JarrahG/buffalocli/internal/genny/assets/webpack"
 	"github.com/gobuffalo/meta"
 	"github.com/gobuffalo/refresh/refresh"
 	"github.com/sirupsen/logrus"

@@ -3,8 +3,8 @@ package build
 import (
 	"testing"
 
-	"github.com/gobuffalo/cli/internal/genny/newapp/web"
-	"github.com/gobuffalo/cli/internal/genny/testrunner"
+	"github.com/JarrahG/buffalocli/internal/genny/newapp/web"
+	"github.com/JarrahG/buffalocli/internal/genny/testrunner"
 	"github.com/gobuffalo/genny/v2/gentest"
 	"github.com/stretchr/testify/require"
 )

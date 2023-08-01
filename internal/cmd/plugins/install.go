@@ -6,8 +6,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/gobuffalo/cli/internal/genny/plugins/install"
-	"github.com/gobuffalo/cli/internal/plugins/plugdeps"
+	"github.com/JarrahG/buffalocli/internal/genny/plugins/install"
+	"github.com/JarrahG/buffalocli/internal/plugins/plugdeps"
 	"github.com/gobuffalo/genny/v2"
 	"github.com/gobuffalo/logger"
 	"github.com/gobuffalo/meta"

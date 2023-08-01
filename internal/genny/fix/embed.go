@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"html/template"
 
-	"github.com/gobuffalo/cli/internal/genny/newapp/api"
-	"github.com/gobuffalo/cli/internal/genny/newapp/web"
+	"github.com/JarrahG/buffalocli/internal/genny/newapp/api"
+	"github.com/JarrahG/buffalocli/internal/genny/newapp/web"
 	"github.com/gobuffalo/genny/v2"
 )
 

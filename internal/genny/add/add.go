@@ -3,7 +3,7 @@ package add
 import (
 	"bytes"
 
-	"github.com/gobuffalo/cli/internal/plugins/plugdeps"
+	"github.com/JarrahG/buffalocli/internal/plugins/plugdeps"
 	"github.com/gobuffalo/genny/v2"
 )
 
